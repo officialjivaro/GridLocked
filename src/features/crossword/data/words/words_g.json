@@ -1,0 +1,110 @@
+[
+  {
+    "id": "g-galaxy",
+    "answer": "galaxy",
+    "clue": "A vast system of stars, gas, dust, and dark matter.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "g-glacier",
+    "answer": "glacier",
+    "clue": "A large, slowly moving mass of ice.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "g-genome",
+    "answer": "genome",
+    "clue": "The complete set of genetic material in an organism.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 3,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "g-gadget",
+    "answer": "gadget",
+    "clue": "A small device designed for a particular practical use.",
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "g-gravity",
+    "answer": "gravity",
+    "clue": "The force that attracts masses toward one another.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "g-geode",
+    "answer": "geode",
+    "clue": "A hollow rock whose inside is often lined with crystals.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "g-geyser",
+    "answer": "geyser",
+    "clue": "A hot spring that periodically shoots water and steam into the air.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "g-graphics",
+    "answer": "graphics",
+    "clue": "Computer-generated visual images or designs.",
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "g-geometry",
+    "answer": "geometry",
+    "clue": "The study of shapes, sizes, angles, and spatial relationships.",
+    "topics": [
+      "general",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  }
+]

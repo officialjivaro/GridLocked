@@ -1,0 +1,109 @@
+[
+  {
+    "id": "h-habitat",
+    "answer": "habitat",
+    "clue": "The natural home or environment of an organism.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "h-hardware",
+    "answer": "hardware",
+    "clue": "The physical parts of a computer or electronic system.",
+    "topics": [
+      "technology"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "h-helium",
+    "answer": "helium",
+    "clue": "A light, nonflammable element often used in balloons.",
+    "topics": [
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "h-horizon",
+    "answer": "horizon",
+    "clue": "The apparent line where land or sea seems to meet the sky.",
+    "topics": [
+      "nature",
+      "science",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "h-history",
+    "answer": "history",
+    "clue": "The study and record of past events.",
+    "topics": [
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "h-hurricane",
+    "answer": "hurricane",
+    "clue": "A powerful tropical storm with sustained rotating winds.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "h-histogram",
+    "answer": "histogram",
+    "clue": "A graph that groups numerical data into adjacent bars.",
+    "topics": [
+      "technology",
+      "general",
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "h-hydrogen",
+    "answer": "hydrogen",
+    "clue": "The lightest chemical element and the most abundant in the universe.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "h-hemisphere",
+    "answer": "hemisphere",
+    "clue": "One half of a sphere, such as the northern half of Earth.",
+    "topics": [
+      "science",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  }
+]

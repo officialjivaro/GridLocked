@@ -1,0 +1,108 @@
+[
+  {
+    "id": "q-quantum",
+    "answer": "quantum",
+    "clue": "The smallest discrete amount of a physical quantity in modern physics.",
+    "topics": [
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "q-query",
+    "answer": "query",
+    "clue": "A request for information sent to a database or search system.",
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "q-quartz",
+    "answer": "quartz",
+    "clue": "A common crystal mineral made from silicon and oxygen.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "q-quasar",
+    "answer": "quasar",
+    "clue": "An extremely bright galactic core powered by a distant black hole.",
+    "topics": [
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "q-quadrant",
+    "answer": "quadrant",
+    "clue": "One of four equal sections made by two perpendicular axes.",
+    "topics": [
+      "science",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "q-qubit",
+    "answer": "qubit",
+    "clue": "The basic unit of information in quantum computing.",
+    "topics": [
+      "technology",
+      "science"
+    ],
+    "difficulty": 3,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "q-quake",
+    "answer": "quake",
+    "clue": "A sudden shaking of the ground caused by movement within Earth.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "q-quadratic",
+    "answer": "quadratic",
+    "clue": "Describing an equation whose highest variable power is two.",
+    "topics": [
+      "general",
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "q-queue",
+    "answer": "queue",
+    "clue": "A line of items waiting to be processed in order.",
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  }
+]

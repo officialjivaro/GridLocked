@@ -1,0 +1,109 @@
+[
+  {
+    "id": "b-binary",
+    "answer": "binary",
+    "clue": "A number system that uses only zero and one.",
+    "topics": [
+      "technology",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "b-botany",
+    "answer": "botany",
+    "clue": "The scientific study of plants.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "b-browser",
+    "answer": "browser",
+    "clue": "Software used to visit and view websites.",
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "b-basalt",
+    "answer": "basalt",
+    "clue": "A dark volcanic rock formed from cooled lava.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "b-beacon",
+    "answer": "beacon",
+    "clue": "A signal or light that helps guide or locate something.",
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "b-bacteria",
+    "answer": "bacteria",
+    "clue": "Microscopic single-celled organisms found in nearly every environment.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "b-bandwidth",
+    "answer": "bandwidth",
+    "clue": "The amount of data a connection can carry in a given time.",
+    "topics": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "b-biome",
+    "answer": "biome",
+    "clue": "A large ecological region defined by its climate and living things.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "b-barometer",
+    "answer": "barometer",
+    "clue": "An instrument used to measure air pressure.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  }
+]

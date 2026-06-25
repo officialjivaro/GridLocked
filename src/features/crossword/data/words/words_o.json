@@ -1,0 +1,110 @@
+[
+  {
+    "id": "o-ocean",
+    "answer": "ocean",
+    "clue": "A vast body of salt water covering much of Earth.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "o-orbit",
+    "answer": "orbit",
+    "clue": "The curved path of one object around another in space.",
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "o-oxygen",
+    "answer": "oxygen",
+    "clue": "An element needed for most familiar forms of respiration.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "o-octagon",
+    "answer": "octagon",
+    "clue": "A shape with eight sides.",
+    "topics": [
+      "general",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "o-optics",
+    "answer": "optics",
+    "clue": "The branch of science concerned with light and vision.",
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "o-organism",
+    "answer": "organism",
+    "clue": "An individual living thing.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "o-ozone",
+    "answer": "ozone",
+    "clue": "A three-atom form of oxygen that helps shield Earth from ultraviolet light.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "o-oscillator",
+    "answer": "oscillator",
+    "clue": "A circuit or system that produces a repeating signal or motion.",
+    "topics": [
+      "technology",
+      "science"
+    ],
+    "difficulty": 3,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "o-oasis",
+    "answer": "oasis",
+    "clue": "A fertile place in a dry region where water is available.",
+    "topics": [
+      "nature",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  }
+]

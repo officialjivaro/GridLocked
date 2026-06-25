@@ -1,0 +1,109 @@
+[
+  {
+    "id": "p-photon",
+    "answer": "photon",
+    "clue": "A tiny packet of electromagnetic energy.",
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "difficulty": 3,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "p-pixel",
+    "answer": "pixel",
+    "clue": "The smallest addressable picture element on a digital display.",
+    "topics": [
+      "technology",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "p-planet",
+    "answer": "planet",
+    "clue": "A large body that travels around a star and clears its orbital region.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "p-pollen",
+    "answer": "pollen",
+    "clue": "Fine grains produced by seed plants for reproduction.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "p-protocol",
+    "answer": "protocol",
+    "clue": "A defined set of rules for communication between systems.",
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "p-photosynthesis",
+    "answer": "photosynthesis",
+    "clue": "The process plants use to turn light energy into chemical energy.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "p-processor",
+    "answer": "processor",
+    "clue": "The component that executes instructions in a computer or device.",
+    "topics": [
+      "technology"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "p-peninsula",
+    "answer": "peninsula",
+    "clue": "Land almost surrounded by water but connected to a mainland.",
+    "topics": [
+      "nature",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "p-prism",
+    "answer": "prism",
+    "clue": "A transparent solid that can separate white light into colors.",
+    "topics": [
+      "science",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  }
+]

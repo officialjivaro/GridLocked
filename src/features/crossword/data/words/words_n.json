@@ -1,0 +1,110 @@
+[
+  {
+    "id": "n-nebula",
+    "answer": "nebula",
+    "clue": "A cloud of gas and dust in space.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "n-neuron",
+    "answer": "neuron",
+    "clue": "A cell specialized to carry signals in a nervous system.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "n-network",
+    "answer": "network",
+    "clue": "A group of connected computers, people, or systems.",
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "n-nitrogen",
+    "answer": "nitrogen",
+    "clue": "The gas that makes up most of Earth’s atmosphere.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "n-nucleus",
+    "answer": "nucleus",
+    "clue": "The central part of an atom or many living cells.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 3,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "n-nanometer",
+    "answer": "nanometer",
+    "clue": "A unit of length equal to one billionth of a meter.",
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "n-navigation",
+    "answer": "navigation",
+    "clue": "The process of planning and following a route from place to place.",
+    "topics": [
+      "technology",
+      "general",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "n-nocturnal",
+    "answer": "nocturnal",
+    "clue": "Active mainly during the night.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "n-numeral",
+    "answer": "numeral",
+    "clue": "A written symbol used to represent a number.",
+    "topics": [
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  }
+]

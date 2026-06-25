@@ -1,0 +1,25 @@
+{
+  "name": "jivaro-crossword",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A neon arcade crossword game with randomly generated topic puzzles.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "validate:words": "node scripts/validateWords.mjs",
+    "test": "node --test tests/crossword/wordData.test.mjs tests/crossword/puzzleGenerator.test.mjs tests/crossword/scoring.test.mjs tests/crossword/entryCompletion.test.mjs",
+    "check": "npm run validate:words && npm test && npm run build"
+  },
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  },
+  "dependencies": {
+    "vue": "^3.5.38"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.7",
+    "vite": "^8.1.0"
+  }
+}
