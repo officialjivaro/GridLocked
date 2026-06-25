@@ -1,0 +1,113 @@
+[
+  {
+    "id": "l-laser",
+    "answer": "laser",
+    "clue": "A device that produces a narrow, concentrated beam of light.",
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "l-latitude",
+    "answer": "latitude",
+    "clue": "A measure of distance north or south of the equator.",
+    "topics": [
+      "general",
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "l-lava",
+    "answer": "lava",
+    "clue": "Molten rock that reaches the surface of a planet.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "l-logic",
+    "answer": "logic",
+    "clue": "A system of valid reasoning.",
+    "topics": [
+      "general",
+      "technology",
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "l-lunar",
+    "answer": "lunar",
+    "clue": "Relating to Earth’s natural satellite.",
+    "topics": [
+      "science",
+      "nature",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "l-laboratory",
+    "answer": "laboratory",
+    "clue": "A place equipped for scientific experiments and testing.",
+    "topics": [
+      "science",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "l-lithium",
+    "answer": "lithium",
+    "clue": "A light metal widely used in rechargeable batteries.",
+    "topics": [
+      "science",
+      "nature",
+      "technology"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "l-lagoon",
+    "answer": "lagoon",
+    "clue": "A shallow body of water separated from a larger sea.",
+    "topics": [
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "l-longitude",
+    "answer": "longitude",
+    "clue": "The east-west position of a place measured from a prime meridian.",
+    "topics": [
+      "science",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  }
+]

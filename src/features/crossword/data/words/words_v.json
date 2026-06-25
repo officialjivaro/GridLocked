@@ -1,0 +1,111 @@
+[
+  {
+    "id": "v-volcano",
+    "answer": "volcano",
+    "clue": "An opening in Earth where lava, ash, and gases may escape.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "v-vector",
+    "answer": "vector",
+    "clue": "A quantity described by both size and direction.",
+    "topics": [
+      "science",
+      "technology",
+      "general"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "v-voltage",
+    "answer": "voltage",
+    "clue": "The electrical potential difference that pushes charge through a circuit.",
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "v-virtual",
+    "answer": "virtual",
+    "clue": "Existing through software rather than as a physical object.",
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "v-vortex",
+    "answer": "vortex",
+    "clue": "A spinning mass of fluid or air around a central point.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "v-virus",
+    "answer": "virus",
+    "clue": "A tiny infectious agent that reproduces only inside living cells.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "v-variable",
+    "answer": "variable",
+    "clue": "A symbol or stored value that can change.",
+    "topics": [
+      "general",
+      "science",
+      "technology"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "v-valley",
+    "answer": "valley",
+    "clue": "Low land lying between hills or mountains.",
+    "topics": [
+      "nature",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "v-viscosity",
+    "answer": "viscosity",
+    "clue": "A fluid's resistance to flowing.",
+    "topics": [
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  }
+]

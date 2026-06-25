@@ -1,0 +1,111 @@
+[
+  {
+    "id": "m-magnet",
+    "answer": "magnet",
+    "clue": "An object that produces a field attracting certain metals.",
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "m-mammal",
+    "answer": "mammal",
+    "clue": "A warm-blooded animal whose young are fed with milk.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "m-matrix",
+    "answer": "matrix",
+    "clue": "A rectangular arrangement of values or elements.",
+    "topics": [
+      "science",
+      "technology",
+      "general"
+    ],
+    "difficulty": 3,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "m-meteor",
+    "answer": "meteor",
+    "clue": "A streak of light caused by space debris entering an atmosphere.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "m-memory",
+    "answer": "memory",
+    "clue": "The part of a system that stores information for use.",
+    "topics": [
+      "technology",
+      "science",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "m-microscope",
+    "answer": "microscope",
+    "clue": "An instrument that magnifies objects too small to see clearly unaided.",
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "m-molecule",
+    "answer": "molecule",
+    "clue": "Two or more atoms chemically bonded as a single unit.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "m-monsoon",
+    "answer": "monsoon",
+    "clue": "A seasonal wind pattern often associated with heavy rainfall.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "m-motherboard",
+    "answer": "motherboard",
+    "clue": "The main circuit board that connects a computer's components.",
+    "topics": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  }
+]

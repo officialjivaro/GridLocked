@@ -1,0 +1,109 @@
+[
+  {
+    "id": "e-eclipse",
+    "answer": "eclipse",
+    "clue": "An event in which one celestial body blocks another from view.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "e-enzyme",
+    "answer": "enzyme",
+    "clue": "A substance that speeds up a chemical reaction in living things.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 3,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "e-ecosystem",
+    "answer": "ecosystem",
+    "clue": "A community of organisms interacting with their environment.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "e-ethernet",
+    "answer": "ethernet",
+    "clue": "A common wired standard for connecting devices on a network.",
+    "topics": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "e-equator",
+    "answer": "equator",
+    "clue": "The imaginary line halfway between Earth’s poles.",
+    "topics": [
+      "science",
+      "nature",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "e-electron",
+    "answer": "electron",
+    "clue": "A negatively charged particle found around an atomic nucleus.",
+    "topics": [
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "e-encryption",
+    "answer": "encryption",
+    "clue": "The process of converting information into a protected coded form.",
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "e-evergreen",
+    "answer": "evergreen",
+    "clue": "A plant that keeps its leaves throughout the year.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "e-erosion",
+    "answer": "erosion",
+    "clue": "The gradual wearing away of rock or soil by wind, water, or ice.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  }
+]

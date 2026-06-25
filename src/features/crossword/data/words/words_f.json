@@ -1,0 +1,107 @@
+[
+  {
+    "id": "f-fossil",
+    "answer": "fossil",
+    "clue": "Preserved evidence of an organism from the distant past.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "f-forest",
+    "answer": "forest",
+    "clue": "A large area dominated by trees and other vegetation.",
+    "topics": [
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "f-firewall",
+    "answer": "firewall",
+    "clue": "A security barrier that monitors network traffic.",
+    "topics": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "f-frequency",
+    "answer": "frequency",
+    "clue": "The number of repeating cycles that occur in a set time.",
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "difficulty": 3,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "f-fjord",
+    "answer": "fjord",
+    "clue": "A long, narrow sea inlet bordered by steep cliffs.",
+    "topics": [
+      "nature",
+      "general"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "f-filament",
+    "answer": "filament",
+    "clue": "A very thin threadlike structure, such as the wire inside some bulbs.",
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "f-firmware",
+    "answer": "firmware",
+    "clue": "Built-in software that directly controls a device's hardware.",
+    "topics": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "f-fauna",
+    "answer": "fauna",
+    "clue": "The animal life found in a particular region or period.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "f-fraction",
+    "answer": "fraction",
+    "clue": "A number that represents part of a whole.",
+    "topics": [
+      "general",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  }
+]

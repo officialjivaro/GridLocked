@@ -1,0 +1,109 @@
+[
+  {
+    "id": "c-carbon",
+    "answer": "carbon",
+    "clue": "An element found in every known form of life.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "c-circuit",
+    "answer": "circuit",
+    "clue": "A complete path through which electric current can flow.",
+    "topics": [
+      "technology",
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "c-comet",
+    "answer": "comet",
+    "clue": "An icy space object that may grow a glowing tail near a star.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "c-canopy",
+    "answer": "canopy",
+    "clue": "The upper layer formed by branches and leaves in a forest.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "c-compass",
+    "answer": "compass",
+    "clue": "An instrument that indicates direction.",
+    "topics": [
+      "general",
+      "technology",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "c-catalyst",
+    "answer": "catalyst",
+    "clue": "A substance that speeds up a chemical reaction without being consumed.",
+    "topics": [
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "c-chromosome",
+    "answer": "chromosome",
+    "clue": "A DNA-carrying structure found inside a cell.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "c-compiler",
+    "answer": "compiler",
+    "clue": "Software that translates source code into another executable form.",
+    "topics": [
+      "technology"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "c-cyclone",
+    "answer": "cyclone",
+    "clue": "A large rotating storm system centered on low pressure.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  }
+]

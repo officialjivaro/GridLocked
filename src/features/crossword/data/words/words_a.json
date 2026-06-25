@@ -1,0 +1,111 @@
+[
+  {
+    "id": "a-atom",
+    "answer": "atom",
+    "clue": "The smallest unit of an element that keeps its chemical identity.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "a-algorithm",
+    "answer": "algorithm",
+    "clue": "A step-by-step procedure used to solve a problem.",
+    "topics": [
+      "technology",
+      "science",
+      "general"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "a-aurora",
+    "answer": "aurora",
+    "clue": "A natural light display seen near a planet’s polar regions.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "a-archive",
+    "answer": "archive",
+    "clue": "A collection kept for long-term storage or reference.",
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "a-amphibian",
+    "answer": "amphibian",
+    "clue": "An animal that typically lives both in water and on land.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "a-asteroid",
+    "answer": "asteroid",
+    "clue": "A rocky body that travels around the Sun, smaller than a planet.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "a-antenna",
+    "answer": "antenna",
+    "clue": "A device that sends or receives radio signals.",
+    "topics": [
+      "technology",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "a-avalanche",
+    "answer": "avalanche",
+    "clue": "A sudden mass of snow rushing down a mountainside.",
+    "topics": [
+      "nature",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "a-arithmetic",
+    "answer": "arithmetic",
+    "clue": "The branch of mathematics dealing with basic number operations.",
+    "topics": [
+      "general",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  }
+]

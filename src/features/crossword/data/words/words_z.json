@@ -1,0 +1,109 @@
+[
+  {
+    "id": "z-zenith",
+    "answer": "zenith",
+    "clue": "The point in the sky directly above an observer.",
+    "topics": [
+      "science",
+      "general"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "z-zoology",
+    "answer": "zoology",
+    "clue": "The scientific study of animals and their behavior.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "z-zeolite",
+    "answer": "zeolite",
+    "clue": "A porous mineral often used for filtering and ion exchange.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 3,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "z-zero",
+    "answer": "zero",
+    "clue": "The number that represents no quantity.",
+    "topics": [
+      "science",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "z-zip-file",
+    "answer": "zip file",
+    "clue": "A compressed archive that can contain one or more digital files.",
+    "topics": [
+      "technology",
+      "general"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "z-zygote",
+    "answer": "zygote",
+    "clue": "The first cell formed when two reproductive cells unite.",
+    "topics": [
+      "science",
+      "nature"
+    ],
+    "difficulty": 2,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "z-zodiac",
+    "answer": "zodiac",
+    "clue": "A band of the sky divided into twelve traditional signs.",
+    "topics": [
+      "general",
+      "science"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "z-zinc",
+    "answer": "zinc",
+    "clue": "A metallic element often used to protect steel from corrosion.",
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "difficulty": 1,
+    "enabled": true,
+    "language": "en"
+  },
+  {
+    "id": "z-zettabyte",
+    "answer": "zettabyte",
+    "clue": "A digital information unit equal to one sextillion bytes.",
+    "topics": [
+      "technology"
+    ],
+    "difficulty": 3,
+    "enabled": true,
+    "language": "en"
+  }
+]
